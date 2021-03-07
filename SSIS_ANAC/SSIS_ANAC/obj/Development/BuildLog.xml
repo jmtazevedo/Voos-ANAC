@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>SSIS_ANAC</Name>
+    <LastWriteTime>2021-03-04T01:12:31.3694523Z</LastWriteTime>
+    <LastKnownProtectionLevel>DontSaveSensitive</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Carga_Arquivo_ANAC.dtsx</Name>
+      <LastWriteTime>2021-03-05T02:08:08.8323693Z</LastWriteTime>
+      <LastKnownProtectionLevel>DontSaveSensitive</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
